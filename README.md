@@ -142,4 +142,12 @@ python make_article_figs.py                          # 6. сводка и рис
 - **Документы** (`documents/`) — официальные тексты нормативных актов Республики Казахстан. По ст. 8 Закона РК «Об авторском праве и смежных правах» они не являются объектами авторского права.
 - **Модели** распространяются по лицензиям своих авторов: у Sherkala это CC BY-NC-SA 4.0, у Llama 3.1 — Llama 3.1 Community License. Учитывайте их, если используете ответы конкретной модели за пределами исследований.
 
-Вопросы — в Issues или в Telegram: @YEEERLAN.
+## Контакты
+
+Вопросы, замечания и предложения о сотрудничестве:
+
+- **Telegram:** [@YEEERLAN](https://t.me/YEEERLAN)
+- **WhatsApp:** [+7 747 816 04 85](https://wa.me/77478160485)
+- **Телефон:** [+7 747 816 04 85](tel:+77478160485)
+- **Почта:** [www.yerlan4@gmail.com](mailto:www.yerlan4@gmail.com)
+- **GitHub:** [Issues](https://github.com/ErlanAyapov/llm-comparison/issues)
