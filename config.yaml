@@ -1,0 +1,60 @@
+# Конфигурация эксперимента (см. docs/experiment_protocol.md)
+
+host: http://localhost:11434   # можно переопределить переменной окружения HOST
+
+# think: false  — модель поддерживает рассуждение, отключаем явно
+# think: null   — у модели нет рассуждения, параметр think НЕ передаётся
+models:
+  - name: gemma4:latest
+    think: false
+  - name: qwen3:8b
+    think: false
+  - name: huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest
+    think: null
+  - name: huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest
+    think: null
+  # Обёртка над hf.co/DiDustin/sherkala_gguf:F16 с чат-шаблоном Llama-3.1
+  # (models/sherkala-chat.Modelfile, протокол п. 2.1)
+  - name: sherkala-chat:latest
+    think: null
+  # Базовые Llama 3.1 Instruct — точки отсчёта для KazLLM (Q4_K_M) и Sherkala (F16),
+  # добавлены 17.11.2026 (add_models.py, протокол п. 2.3)
+  - name: llama3.1:8b-instruct-q4_K_M
+    think: null
+  - name: llama3.1:8b-instruct-fp16
+    think: null
+  - name: llama3.1:70b-instruct-q4_K_M
+    think: null
+  # Справочная модель (не участник основного сравнения): проверка понимания казахского
+  # кандидатом в судьи финальной оценки. Рассуждение у gpt-oss не отключается — минимальный уровень.
+  - name: gpt-oss:120b
+    think: low
+    reference: true
+
+generation:
+  num_ctx: 8192          # наименьшее окно среди моделей (Sherkala)
+  num_predict: 512       # лимит ответа; резервируется внутри num_ctx
+  temperature: 0
+  seed: 42
+  keep_alive: 30m
+  timeout_s: 1800
+
+context:
+  seed: 42               # seed для случайного положения ответа в окне
+  safety_tokens: 32      # запас между промптом и (num_ctx - num_predict)
+  shrink_factor: 0.93    # во сколько раз ужимать окно, если промпт не влез
+
+datasets:
+  e1: dataset/qa_kk.json
+  e2: dataset/qa_kk_negative.json
+  e3: dataset/qa_ru.json
+
+# Документ для прежнего E2 (вопросы не по теме, теперь e2_offtopic — архив; в статью не входит).
+# (самый длинный документ, который целиком влезает в бюджет и не содержит absent_keywords).
+e2_document:
+  file_path: "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_18.pdf"
+  file_hash: 52956dfaddf773b14c70c9330e10da20c47ae485faa2e672827b2b28bc0498f3
+
+paths:
+  tasks_dir: tasks
+  results_dir: results

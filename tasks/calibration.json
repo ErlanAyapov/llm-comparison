@@ -1,0 +1,291 @@
+{
+ "ratios": {
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_10.pdf": {
+   "gemma4:latest": 2.2183,
+   "qwen3:8b": 1.5699,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5633,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5633,
+   "sherkala-chat:latest": 4.7099
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_11.pdf": {
+   "gemma4:latest": 2.3742,
+   "qwen3:8b": 1.6537,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6432,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6432,
+   "sherkala-chat:latest": 4.6608
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_12.pdf": {
+   "gemma4:latest": 2.3147,
+   "qwen3:8b": 1.6712,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6662,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6662,
+   "sherkala-chat:latest": 4.49
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_14.pdf": {
+   "gemma4:latest": 2.2896,
+   "qwen3:8b": 1.6174,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5907,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5907,
+   "sherkala-chat:latest": 4.5209
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_15.pdf": {
+   "gemma4:latest": 2.3283,
+   "qwen3:8b": 1.6296,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6125,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6125,
+   "sherkala-chat:latest": 4.4515
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17 (1).pdf": {
+   "gemma4:latest": 2.3242,
+   "qwen3:8b": 1.6282,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.639,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.639,
+   "sherkala-chat:latest": 4.5476
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17 (2).pdf": {
+   "gemma4:latest": 2.2343,
+   "qwen3:8b": 1.5941,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6143,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6143,
+   "sherkala-chat:latest": 4.5845
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17.pdf": {
+   "gemma4:latest": 2.2964,
+   "qwen3:8b": 1.5848,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6608,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6608,
+   "sherkala-chat:latest": 4.4241
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_18.pdf": {
+   "gemma4:latest": 2.415,
+   "qwen3:8b": 1.6438,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.779,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.779,
+   "sherkala-chat:latest": 4.917
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_1_ (1).pdf": {
+   "gemma4:latest": 2.3681,
+   "qwen3:8b": 1.652,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6643,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6643,
+   "sherkala-chat:latest": 4.5459
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_1_.pdf": {
+   "gemma4:latest": 2.1808,
+   "qwen3:8b": 1.6445,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5734,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5734,
+   "sherkala-chat:latest": 3.676
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (1).pdf": {
+   "gemma4:latest": 2.3073,
+   "qwen3:8b": 1.6324,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6926,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6926,
+   "sherkala-chat:latest": 4.729
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (2).pdf": {
+   "gemma4:latest": 2.4414,
+   "qwen3:8b": 1.7256,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.7041,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.7041,
+   "sherkala-chat:latest": 4.7199
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (3).pdf": {
+   "gemma4:latest": 2.4293,
+   "qwen3:8b": 1.6954,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.741,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.741,
+   "sherkala-chat:latest": 4.6034
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21.pdf": {
+   "gemma4:latest": 2.3299,
+   "qwen3:8b": 1.5832,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5804,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5804,
+   "sherkala-chat:latest": 4.6789
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_22 (1).pdf": {
+   "gemma4:latest": 2.2852,
+   "qwen3:8b": 1.554,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5616,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5616,
+   "sherkala-chat:latest": 4.1976
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_22.pdf": {
+   "gemma4:latest": 2.2722,
+   "qwen3:8b": 1.6395,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5869,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5869,
+   "sherkala-chat:latest": 3.9822
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_26.pdf": {
+   "gemma4:latest": 2.3179,
+   "qwen3:8b": 1.577,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6485,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6485,
+   "sherkala-chat:latest": 4.5616
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27 (1).pdf": {
+   "gemma4:latest": 2.4375,
+   "qwen3:8b": 1.637,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5919,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5919,
+   "sherkala-chat:latest": 4.7008
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27 (2).pdf": {
+   "gemma4:latest": 2.2903,
+   "qwen3:8b": 1.6201,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6399,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6399,
+   "sherkala-chat:latest": 4.02
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27.pdf": {
+   "gemma4:latest": 2.2387,
+   "qwen3:8b": 1.5837,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5904,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5904,
+   "sherkala-chat:latest": 3.8199
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_29 (1).pdf": {
+   "gemma4:latest": 2.373,
+   "qwen3:8b": 1.6164,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6164,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6164,
+   "sherkala-chat:latest": 4.5128
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_29.pdf": {
+   "gemma4:latest": 2.1426,
+   "qwen3:8b": 1.5762,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6327,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6327,
+   "sherkala-chat:latest": 4.4097
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_2_.pdf": {
+   "gemma4:latest": 2.2976,
+   "qwen3:8b": 1.6161,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5883,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5883,
+   "sherkala-chat:latest": 4.531
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_30.pdf": {
+   "gemma4:latest": 2.2449,
+   "qwen3:8b": 1.6635,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.651,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.651,
+   "sherkala-chat:latest": 4.093
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_ (1).pdf": {
+   "gemma4:latest": 2.2741,
+   "qwen3:8b": 1.6112,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5939,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5939,
+   "sherkala-chat:latest": 4.1054
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_ (2).pdf": {
+   "gemma4:latest": 2.4554,
+   "qwen3:8b": 1.6914,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6914,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6914,
+   "sherkala-chat:latest": 5.0318
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_.pdf": {
+   "gemma4:latest": 2.514,
+   "qwen3:8b": 1.7509,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.7575,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.7575,
+   "sherkala-chat:latest": 4.9466
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_5_ (2).pdf": {
+   "gemma4:latest": 2.1426,
+   "qwen3:8b": 1.5689,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6272,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6272,
+   "sherkala-chat:latest": 4.274
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_5_.pdf": {
+   "gemma4:latest": 2.4737,
+   "qwen3:8b": 1.722,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.7356,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.7356,
+   "sherkala-chat:latest": 4.9807
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_6_ (1).pdf": {
+   "gemma4:latest": 2.1067,
+   "qwen3:8b": 1.5686,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5439,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5439,
+   "sherkala-chat:latest": 3.4708
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_6_.pdf": {
+   "gemma4:latest": 2.2932,
+   "qwen3:8b": 1.6307,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.7258,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.7258,
+   "sherkala-chat:latest": 4.5062
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_7_ (1).pdf": {
+   "gemma4:latest": 2.4776,
+   "qwen3:8b": 1.6946,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6574,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6574,
+   "sherkala-chat:latest": 4.7253
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_7_.pdf": {
+   "gemma4:latest": 2.3345,
+   "qwen3:8b": 1.6284,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6111,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6111,
+   "sherkala-chat:latest": 4.0465
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_8_.pdf": {
+   "gemma4:latest": 2.231,
+   "qwen3:8b": 1.5582,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5396,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5396,
+   "sherkala-chat:latest": 4.5707
+  },
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_9_.pdf": {
+   "gemma4:latest": 2.4415,
+   "qwen3:8b": 1.6666,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.6421,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.6421,
+   "sherkala-chat:latest": 4.4698
+  },
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_11_маусы.pdf": {
+   "gemma4:latest": 2.2115,
+   "qwen3:8b": 1.5662,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5707,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5707,
+   "sherkala-chat:latest": 3.8682
+  },
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_12_маусы.pdf": {
+   "gemma4:latest": 2.1709,
+   "qwen3:8b": 1.5449,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5698,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5698,
+   "sherkala-chat:latest": 4.0155
+  },
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_17_маусы.pdf": {
+   "gemma4:latest": 2.2918,
+   "qwen3:8b": 1.56,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5685,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5685,
+   "sherkala-chat:latest": 4.3298
+  },
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_19_маусы.pdf": {
+   "gemma4:latest": 2.271,
+   "qwen3:8b": 1.5853,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 1.5824,
+   "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 1.5824,
+   "sherkala-chat:latest": 4.1482
+  }
+ },
+ "overhead": {
+  "gemma4:latest": 146,
+  "qwen3:8b": 217,
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 225,
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 225,
+  "sherkala-chat:latest": 86
+ }
+}

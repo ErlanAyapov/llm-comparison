@@ -1,0 +1,1689 @@
+[
+  {
+    "id": "neg_q001",
+    "question": "Бешбармақ дайындау үшін етті қанша сағат қайнату керек?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "бешбармақ",
+      "қайнат"
+    ]
+  },
+  {
+    "id": "neg_q002",
+    "question": "Бауырсақты қандай майда пісірген дұрыс?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "бауырсақ"
+    ]
+  },
+  {
+    "id": "neg_q003",
+    "question": "Қымыз қандай сүттен ашытылады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "қымыз",
+      "ашыт"
+    ]
+  },
+  {
+    "id": "neg_q004",
+    "question": "Шұбат дегеніміз не және ол қай жануардың сүтінен жасалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "шұбат"
+    ]
+  },
+  {
+    "id": "neg_q005",
+    "question": "Палау дайындағанда күрішті қанша уақыт суға жібіту керек?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "палау",
+      "күріш"
+    ]
+  },
+  {
+    "id": "neg_q006",
+    "question": "Құрт қалай кептіріледі?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "құрт",
+      "кептір"
+    ]
+  },
+  {
+    "id": "neg_q007",
+    "question": "Наурыз көже неше түрлі дәмнен дайындалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "көже"
+    ]
+  },
+  {
+    "id": "neg_q008",
+    "question": "Пицца үшін қамырды қандай температурада пісіреді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "пицца",
+      "қамыр"
+    ]
+  },
+  {
+    "id": "neg_q009",
+    "question": "Торт кремін қою ету үшін не қосады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "торт",
+      "крем"
+    ]
+  },
+  {
+    "id": "neg_q010",
+    "question": "Күн жүйесіндегі ең үлкен планета қайсы?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "планета",
+      "юпитер"
+    ]
+  },
+  {
+    "id": "neg_q011",
+    "question": "Судың қайнау температурасы теңіз деңгейінде қанша градус?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "қайнау",
+      "градус"
+    ]
+  },
+  {
+    "id": "neg_q012",
+    "question": "Фотосинтез процесінде өсімдіктер қандай газды бөліп шығарады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "фотосинтез"
+    ]
+  },
+  {
+    "id": "neg_q013",
+    "question": "Адам денесінде неше сүйек бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "сүйек"
+    ]
+  },
+  {
+    "id": "neg_q014",
+    "question": "Жарық жылдамдығы секундына қанша шақырым?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "жарық жылдамдығы",
+      "шақырым"
+    ]
+  },
+  {
+    "id": "neg_q015",
+    "question": "ДНҚ молекуласының пішіні қалай аталады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "днқ",
+      "молекула"
+    ]
+  },
+  {
+    "id": "neg_q016",
+    "question": "Марс планетасының неше серігі бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "марс"
+    ]
+  },
+  {
+    "id": "neg_q017",
+    "question": "Ньютонның екінші заңы қалай тұжырымдалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "ньютон"
+    ]
+  },
+  {
+    "id": "neg_q018",
+    "question": "Адамның қалыпты дене температурасы қанша?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "дене температура"
+    ]
+  },
+  {
+    "id": "neg_q019",
+    "question": "Кит сүтқоректі ме, әлде балық па?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "кит",
+      "сүтқоректі"
+    ]
+  },
+  {
+    "id": "neg_q020",
+    "question": "Радуга (кемпірқосақ) неше түстен тұрады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "кемпірқосақ"
+    ]
+  },
+  {
+    "id": "neg_q021",
+    "question": "Ең жоғары тау шыңы Эверест қанша метр?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "эверест"
+    ]
+  },
+  {
+    "id": "neg_q022",
+    "question": "Балқаш көлінің бір бөлігі тұщы, екінші бөлігі неге тұзды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "балқаш"
+    ]
+  },
+  {
+    "id": "neg_q023",
+    "question": "Алакөлдің суы неге емдік деп саналады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "алакөл"
+    ]
+  },
+  {
+    "id": "neg_q024",
+    "question": "Хан Тәңірі шыңының биіктігі қанша?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "хан тәңірі",
+      "тәңірі"
+    ]
+  },
+  {
+    "id": "neg_q025",
+    "question": "Сахара шөлінің ауданы қанша?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "сахара"
+    ]
+  },
+  {
+    "id": "neg_q026",
+    "question": "Амазонка өзені қай құрлықта ағады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "амазонка"
+    ]
+  },
+  {
+    "id": "neg_q027",
+    "question": "Байкал көлінің тереңдігі қанша метр?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "байкал"
+    ]
+  },
+  {
+    "id": "neg_q028",
+    "question": "Жапонияның астанасы қай қала?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "жапония",
+      "токио"
+    ]
+  },
+  {
+    "id": "neg_q029",
+    "question": "Австралияда қандай эндемик жануарлар мекендейді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "австралия",
+      "кенгуру"
+    ]
+  },
+  {
+    "id": "neg_q030",
+    "question": "Көкшетау таулары теңіз деңгейінен қанша биіктікте?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "көкшетау таулар"
+    ]
+  },
+  {
+    "id": "neg_q031",
+    "question": "Футбол командасында алаңда неше ойыншы ойнайды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "футбол"
+    ]
+  },
+  {
+    "id": "neg_q032",
+    "question": "Көкпар ойынының ережесі қандай?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "көкпар"
+    ]
+  },
+  {
+    "id": "neg_q033",
+    "question": "Шахматта ат қалай жүреді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "шахмат"
+    ]
+  },
+  {
+    "id": "neg_q034",
+    "question": "Марафон жарысының қашықтығы қанша шақырым?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "марафон"
+    ]
+  },
+  {
+    "id": "neg_q035",
+    "question": "Баскетбол себетінің биіктігі қанша метр?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "баскетбол"
+    ]
+  },
+  {
+    "id": "neg_q036",
+    "question": "Теннисте \"эйс\" деген не?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "теннис",
+      "эйс"
+    ]
+  },
+  {
+    "id": "neg_q037",
+    "question": "Тоғызқұмалақ ойнау тақтасында неше отау бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "тоғызқұмалақ",
+      "отау"
+    ]
+  },
+  {
+    "id": "neg_q038",
+    "question": "Хоккей матчы неше кезеңнен тұрады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "хоккей"
+    ]
+  },
+  {
+    "id": "neg_q039",
+    "question": "Асық ату ойынында қандай ережелер бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "асық"
+    ]
+  },
+  {
+    "id": "neg_q040",
+    "question": "Велоспорттағы \"Тур де Франс\" жарысы неше кезеңнен тұрады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "тур де франс",
+      "велоспорт"
+    ]
+  },
+  {
+    "id": "neg_q041",
+    "question": "Волейболда бір сет неше ұпайға дейін ойналады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "волейбол"
+    ]
+  },
+  {
+    "id": "neg_q042",
+    "question": "Бәйге жарысына қатысатын аттардың жасы қанша болуы керек?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "бәйге"
+    ]
+  },
+  {
+    "id": "neg_q043",
+    "question": "Қобыз аспабы қандай материалдан жасалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "қобыз"
+    ]
+  },
+  {
+    "id": "neg_q044",
+    "question": "Мұхтар Әуезовтің \"Абай жолы\" эпопеясы неше кітаптан тұрады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "абай жолы",
+      "эпопея"
+    ]
+  },
+  {
+    "id": "neg_q045",
+    "question": "\"Мона Лиза\" картинасын кім салған?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "мона лиза",
+      "картина"
+    ]
+  },
+  {
+    "id": "neg_q046",
+    "question": "Бетховеннің неше симфониясы бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "бетховен",
+      "симфония"
+    ]
+  },
+  {
+    "id": "neg_q047",
+    "question": "Қазақ ою-өрнегіндегі \"қошқар мүйіз\" нені білдіреді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "қошқар мүйіз"
+    ]
+  },
+  {
+    "id": "neg_q048",
+    "question": "Жыраулар поэзиясының өкілдері кімдер?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "жыраулар поэзия"
+    ]
+  },
+  {
+    "id": "neg_q049",
+    "question": "Ыбырай Алтынсарин қандай мектептер ашқан?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "алтынсарин"
+    ]
+  },
+  {
+    "id": "neg_q050",
+    "question": "Ұлы Жібек жолы қай ғасырларда жұмыс істеді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "жібек жолы"
+    ]
+  },
+  {
+    "id": "neg_q051",
+    "question": "Абылай хан қай жылы туған?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "абылай"
+    ]
+  },
+  {
+    "id": "neg_q052",
+    "question": "Аңырақай шайқасы қай жылы болды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "аңырақай"
+    ]
+  },
+  {
+    "id": "neg_q053",
+    "question": "Отырар қаласы қай өзеннің бойында орналасқан?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "отырар"
+    ]
+  },
+  {
+    "id": "neg_q054",
+    "question": "Пирамидаларды қай ежелгі өркениет салған?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "пирамида",
+      "египет"
+    ]
+  },
+  {
+    "id": "neg_q055",
+    "question": "Екінші дүниежүзілік соғыс қай жылы басталды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "дүниежүзілік соғыс"
+    ]
+  },
+  {
+    "id": "neg_q056",
+    "question": "Шыңғыс хан империясының астанасы қай қала болды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "шыңғыс хан",
+      "қарақорым"
+    ]
+  },
+  {
+    "id": "neg_q057",
+    "question": "Әл-Фарабиді неге \"екінші ұстаз\" деп атайды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "екінші ұстаз"
+    ]
+  },
+  {
+    "id": "neg_q058",
+    "question": "Төле би қай жүздің биі болған?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "history",
+    "absent_keywords": [
+      "төле би"
+    ]
+  },
+  {
+    "id": "neg_q059",
+    "question": "Смартфонның батареясын ұзақ сақтау үшін оны қанша пайызға дейін зарядтаған дұрыс?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "батарея",
+      "зарядта"
+    ]
+  },
+  {
+    "id": "neg_q060",
+    "question": "Wi-Fi роутерді қалай қайта жүктеуге болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "wi-fi",
+      "роутер"
+    ]
+  },
+  {
+    "id": "neg_q061",
+    "question": "Компьютердің жедел жадысы (RAM) не үшін қажет?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "жедел жады",
+      "ram"
+    ]
+  },
+  {
+    "id": "neg_q062",
+    "question": "Электромобильдің бір зарядтағы жүріс қоры қанша шақырым?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "электромобиль"
+    ]
+  },
+  {
+    "id": "neg_q063",
+    "question": "Фотоаппараттағы диафрагма нені реттейді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "фотоаппарат",
+      "диафрагма"
+    ]
+  },
+  {
+    "id": "neg_q064",
+    "question": "Excel-де ұяшықтарды қалай біріктіреді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "excel",
+      "ұяшық"
+    ]
+  },
+  {
+    "id": "neg_q065",
+    "question": "Принтерде картриджді қалай ауыстырады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "принтер",
+      "картридж"
+    ]
+  },
+  {
+    "id": "neg_q066",
+    "question": "Күніне қанша литр су ішкен пайдалы?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "health",
+    "absent_keywords": [
+      "литр су"
+    ]
+  },
+  {
+    "id": "neg_q067",
+    "question": "Ересек адамға тәулігіне неше сағат ұйқы қажет?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "health",
+    "absent_keywords": [
+      "ұйқы"
+    ]
+  },
+  {
+    "id": "neg_q068",
+    "question": "Тұмаудан қалай сақтануға болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "health",
+    "absent_keywords": [
+      "тұмау"
+    ]
+  },
+  {
+    "id": "neg_q069",
+    "question": "Итті қандай жастан бастап үйретуге болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "home",
+    "absent_keywords": [
+      "күшік"
+    ]
+  },
+  {
+    "id": "neg_q070",
+    "question": "Үйде нан пісіру үшін ашытқыны қанша салады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "home",
+    "absent_keywords": [
+      "ашытқы",
+      "нан піс"
+    ]
+  },
+  {
+    "id": "neg_q071",
+    "question": "Ертең Астанада ауа райы қандай болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "weather",
+    "absent_keywords": [
+      "ауа райы"
+    ]
+  },
+  {
+    "id": "neg_q072",
+    "question": "Қыста Алматыда ауа неге ластанады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "weather",
+    "absent_keywords": [
+      "смог"
+    ]
+  },
+  {
+    "id": "neg_q073",
+    "question": "Келесі күн тұтылуы қашан болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "weather",
+    "absent_keywords": [
+      "тұтылу"
+    ]
+  },
+  {
+    "id": "neg_q074",
+    "question": "Торнадо қалай пайда болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "weather",
+    "absent_keywords": [
+      "торнадо"
+    ]
+  },
+  {
+    "id": "neg_q075",
+    "question": "Пи санының алғашқы бес цифры қандай?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "math",
+    "absent_keywords": [
+      "пи сан"
+    ]
+  },
+  {
+    "id": "neg_q076",
+    "question": "Пифагор теоремасы қалай тұжырымдалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "math",
+    "absent_keywords": [
+      "пифагор"
+    ]
+  },
+  {
+    "id": "neg_q077",
+    "question": "Шеңбердің ауданы қандай формуламен есептеледі?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "math",
+    "absent_keywords": [
+      "шеңбердің ауданы"
+    ]
+  },
+  {
+    "id": "neg_q078",
+    "question": "Жай сан дегеніміз не?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "math",
+    "absent_keywords": [
+      "жай сан"
+    ]
+  },
+  {
+    "id": "neg_q079",
+    "question": "Логарифм дегеніміз не?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "math",
+    "absent_keywords": [
+      "логарифм"
+    ]
+  },
+  {
+    "id": "neg_q080",
+    "question": "Гарри Поттер қай мектепте оқыды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "гарри поттер",
+      "хогвартс"
+    ]
+  },
+  {
+    "id": "neg_q081",
+    "question": "Шерлок Холмстың досының аты кім?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "шерлок",
+      "холмс"
+    ]
+  },
+  {
+    "id": "neg_q082",
+    "question": "Алдар Көсе Шықбермес байды қалай алдады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "алдар көсе",
+      "шықбермес"
+    ]
+  },
+  {
+    "id": "neg_q083",
+    "question": "Қожанасыр есегіне неге теріс мінген?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "қожанасыр"
+    ]
+  },
+  {
+    "id": "neg_q084",
+    "question": "\"Жұлдызды соғыстар\" фильміндегі Дарт Вейдердің шын аты кім?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "жұлдызды соғыс",
+      "вейдер"
+    ]
+  },
+  {
+    "id": "neg_q085",
+    "question": "Ер Төстік ертегісінде Шойынқұлақ кім?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "ер төстік",
+      "шойынқұлақ"
+    ]
+  },
+  {
+    "id": "neg_q086",
+    "question": "Алматыда бір кесе кофенің орташа бағасы қанша?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "кофе"
+    ]
+  },
+  {
+    "id": "neg_q087",
+    "question": "Астанадан Алматыға пойызбен қанша сағатта жетуге болады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "пойыз"
+    ]
+  },
+  {
+    "id": "neg_q088",
+    "question": "Жүргізуші куәлігін алу үшін автомектепте қанша ай оқу керек?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "автомектеп"
+    ]
+  },
+  {
+    "id": "neg_q089",
+    "question": "Қазақстанда жаңа жыл мерекесі неше күн демалыс болып табылады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "жаңа жыл"
+    ]
+  },
+  {
+    "id": "neg_q090",
+    "question": "Наурыз мерекесінде қандай салт-дәстүрлер жасалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "наурыз мереке",
+      "салт-дәстүр"
+    ]
+  },
+  {
+    "id": "neg_q091",
+    "question": "Тойда беташар рәсімі қалай өтеді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "беташар"
+    ]
+  },
+  {
+    "id": "neg_q092",
+    "question": "Сүндет той неше жаста жасалады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "сүндет"
+    ]
+  },
+  {
+    "id": "neg_q093",
+    "question": "Қазақтың \"шашу\" дәстүрінің мәні неде?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "everyday",
+    "absent_keywords": [
+      "шашу"
+    ]
+  },
+  {
+    "id": "neg_q094",
+    "question": "Нептун планетасы Күнді бір рет қанша жылда айналып шығады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "нептун"
+    ]
+  },
+  {
+    "id": "neg_q095",
+    "question": "Хамелеон түсін неліктен өзгертеді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "хамелеон"
+    ]
+  },
+  {
+    "id": "neg_q096",
+    "question": "Пингвиндер ұша ала ма?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "пингвин"
+    ]
+  },
+  {
+    "id": "neg_q097",
+    "question": "Дельфиндер қалай ұйықтайды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "дельфин"
+    ]
+  },
+  {
+    "id": "neg_q098",
+    "question": "Динозаврлар қашан жойылып кетті?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "динозавр"
+    ]
+  },
+  {
+    "id": "neg_q099",
+    "question": "Вулкан атқылауы қалай болжанады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "science",
+    "absent_keywords": [
+      "вулкан"
+    ]
+  },
+  {
+    "id": "neg_q100",
+    "question": "Ниагара сарқырамасы қай елдердің шекарасында орналасқан?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "ниагара"
+    ]
+  },
+  {
+    "id": "neg_q101",
+    "question": "Исландияда неше белсенді жанартау бар?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "исландия",
+      "жанартау"
+    ]
+  },
+  {
+    "id": "neg_q102",
+    "question": "Мадагаскар аралы қай мұхитта орналасқан?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "geography",
+    "absent_keywords": [
+      "мадагаскар"
+    ]
+  },
+  {
+    "id": "neg_q103",
+    "question": "Моцарт алғашқы шығармасын неше жасында жазды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "моцарт"
+    ]
+  },
+  {
+    "id": "neg_q104",
+    "question": "Ван Гогтың \"Жұлдызды түн\" картинасы қай жылы салынды?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "ван гог"
+    ]
+  },
+  {
+    "id": "neg_q105",
+    "question": "Балет өнерінде \"пуанты\" деген не?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "culture",
+    "absent_keywords": [
+      "балет",
+      "пуант"
+    ]
+  },
+  {
+    "id": "neg_q106",
+    "question": "Винни-Пухтың ең жақын досы кім?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "винни"
+    ]
+  },
+  {
+    "id": "neg_q107",
+    "question": "Чиполлино ертегісін кім жазған?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "fictional",
+    "absent_keywords": [
+      "чиполлино"
+    ]
+  },
+  {
+    "id": "neg_q108",
+    "question": "Блютуз құлаққапты телефонға қалай қосады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "tech",
+    "absent_keywords": [
+      "құлаққап"
+    ]
+  },
+  {
+    "id": "neg_q109",
+    "question": "Лағман кеспесін қолмен қалай созады?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "cooking",
+    "absent_keywords": [
+      "лағман"
+    ]
+  },
+  {
+    "id": "neg_q110",
+    "question": "Гольф ойынында \"бёрди\" нені білдіреді?",
+    "answer": "Құжаттарда бұл туралы ақпарат жоқ.",
+    "line_ids": [],
+    "context": "",
+    "file_path": null,
+    "file_hash": null,
+    "lang": "kk",
+    "answerable": false,
+    "category": "sport",
+    "absent_keywords": [
+      "гольф"
+    ]
+  }
+]

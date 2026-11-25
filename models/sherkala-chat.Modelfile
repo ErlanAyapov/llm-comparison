@@ -1,0 +1,19 @@
+# Обёртка над hf.co/DiDustin/sherkala_gguf:F16 с чат-шаблоном Llama-3.1.
+# Причина: исходный GGUF в Ollama имеет TEMPLATE "{{ .Prompt }}" (без ролей и спецтокенов)
+# и не задаёт stop-токены; eos в GGUF = <|end_of_text|> (128001), а чат-модель завершает
+# реплику токеном <|eot_id|> (128009). Веса не меняются — меняется только шаблон и stop.
+#
+# Создание:  ollama create sherkala-chat -f models/sherkala-chat.Modelfile
+# Создано на сервере 16.11.2026, digest 32745d36466a.
+
+FROM hf.co/DiDustin/sherkala_gguf:F16
+
+TEMPLATE """<|begin_of_text|>{{- range .Messages }}<|start_header_id|>{{ .Role }}<|end_header_id|>
+
+{{ .Content }}<|eot_id|>{{- end }}<|start_header_id|>assistant<|end_header_id|>
+
+"""
+
+PARAMETER stop "<|eot_id|>"
+PARAMETER stop "<|end_of_text|>"
+PARAMETER stop "<|start_header_id|>"

@@ -1,0 +1,306 @@
+{
+ "gemma4 (8B)": {
+  "e1": {
+   "correct": 84.8,
+   "refusal": 5.7,
+   "incorrect": 4.0,
+   "partial": 5.5,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 81.8,
+   "partial": 6.0,
+   "incorrect": 4.1,
+   "refusal": 8.1,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "refusal": 80.0,
+   "supported": 12.0,
+   "hallucination": 8.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "hallucination": 10.0,
+   "supported": 6.5,
+   "refusal": 83.5,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 48.8,
+  "e1_prompt_tokens_median": 4939
+ },
+ "qwen3-8B": {
+  "e1": {
+   "refusal": 12.6,
+   "correct": 72.8,
+   "partial": 6.0,
+   "incorrect": 8.7,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "refusal": 23.3,
+   "correct": 59.0,
+   "incorrect": 8.4,
+   "partial": 9.4,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "supported": 8.5,
+   "hallucination": 10.5,
+   "refusal": 81.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "supported": 6.5,
+   "hallucination": 13.5,
+   "refusal": 80.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 36.0,
+  "e1_prompt_tokens_median": 7103
+ },
+ "KazLLM-1.0-8B": {
+  "e1": {
+   "correct": 82.7,
+   "refusal": 6.1,
+   "partial": 6.7,
+   "incorrect": 4.5,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "refusal": 8.9,
+   "incorrect": 13.2,
+   "partial": 9.2,
+   "correct": 68.7,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "refusal": 69.5,
+   "hallucination": 21.5,
+   "supported": 9.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "hallucination": 19.5,
+   "refusal": 73.5,
+   "supported": 7.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 38.0,
+  "e1_prompt_tokens_median": 7162
+ },
+ "KazLLM-1.0-70B": {
+  "e1": {
+   "refusal": 2.1,
+   "correct": 90.1,
+   "partial": 5.7,
+   "incorrect": 2.1,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 83.3,
+   "refusal": 0.4,
+   "partial": 9.2,
+   "incorrect": 7.1,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "hallucination": 17.5,
+   "refusal": 73.5,
+   "supported": 9.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "hallucination": 43.0,
+   "supported": 8.0,
+   "refusal": 49.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 46.0,
+  "e1_prompt_tokens_median": 7162
+ },
+ "Sherkala-8B-Chat": {
+  "e1": {
+   "correct": 81.3,
+   "refusal": 7.9,
+   "incorrect": 5.8,
+   "partial": 5.0,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 74.0,
+   "refusal": 4.5,
+   "partial": 9.4,
+   "incorrect": 12.1,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "refusal": 78.5,
+   "hallucination": 13.0,
+   "supported": 8.5,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "refusal": 58.0,
+   "hallucination": 33.5,
+   "supported": 8.5,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 36.9,
+  "e1_prompt_tokens_median": 2591
+ },
+ "Llama-3.1-8B Q4": {
+  "e1": {
+   "correct": 58.4,
+   "partial": 5.7,
+   "refusal": 30.9,
+   "incorrect": 5.0,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "incorrect": 12.3,
+   "correct": 45.4,
+   "refusal": 34.8,
+   "partial": 7.5,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "hallucination": 12.0,
+   "supported": 6.0,
+   "refusal": 82.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "refusal": 74.5,
+   "hallucination": 17.5,
+   "supported": 8.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 32.5,
+  "e1_prompt_tokens_median": 7162
+ },
+ "Llama-3.1-8B F16": {
+  "e1": {
+   "correct": 65.5,
+   "refusal": 24.4,
+   "partial": 5.8,
+   "incorrect": 4.3,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 52.9,
+   "refusal": 25.2,
+   "partial": 9.4,
+   "incorrect": 12.5,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "supported": 8.0,
+   "refusal": 76.5,
+   "hallucination": 15.0,
+   "n": 200,
+   "unjudged": 1
+  },
+  "e2_ru": {
+   "refusal": 67.0,
+   "hallucination": 24.5,
+   "supported": 8.5,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 37.9,
+  "e1_prompt_tokens_median": 7162
+ },
+ "Llama-3.1-70B Q4": {
+  "e1": {
+   "correct": 91.6,
+   "partial": 7.2,
+   "incorrect": 1.1,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 82.4,
+   "partial": 11.9,
+   "incorrect": 5.7,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "supported": 13.5,
+   "hallucination": 32.5,
+   "refusal": 54.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "refusal": 22.5,
+   "hallucination": 67.5,
+   "supported": 10.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 46.1,
+  "e1_prompt_tokens_median": 7162
+ },
+ "gpt-oss-120b*": {
+  "e1": {
+   "correct": 88.4,
+   "incorrect": 4.4,
+   "partial": 4.8,
+   "refusal": 2.4,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e3": {
+   "correct": 82.4,
+   "incorrect": 5.0,
+   "partial": 7.2,
+   "refusal": 5.4,
+   "n": 705,
+   "unjudged": 0
+  },
+  "e2": {
+   "supported": 14.5,
+   "refusal": 75.5,
+   "hallucination": 10.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e2_ru": {
+   "supported": 12.0,
+   "refusal": 78.0,
+   "hallucination": 10.0,
+   "n": 200,
+   "unjudged": 0
+  },
+  "e1_lex": 36.6,
+  "e1_prompt_tokens_median": 3680
+ }
+}

@@ -1,0 +1,32 @@
+Data license / Лицензия на данные
+
+Copyright (c) 2026 Yerlan Mamutuly Ayapov
+
+The following materials are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+  dataset/   questions, reference answers, Russian translations
+  tasks/     frozen tasks and manifest
+  results/   model outputs, metrics and judge verdicts
+  reports/   summary numbers, figures, validation sample and annotations
+  docs/      experiment protocol
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt these materials for any purpose, including
+commercially, provided you give appropriate credit, link to the license and
+indicate if changes were made.
+
+Exceptions:
+
+  documents/ - official texts of normative legal acts of the Republic of
+  Kazakhstan (source: https://zan.kz). Under Article 8 of the Law of the
+  Republic of Kazakhstan "On Copyright and Related Rights", official
+  documents (laws, decrees and other normative acts) are not objects of
+  copyright. They are included here unchanged for reproducibility.
+
+  Model outputs in results/ were produced by third-party models, which are
+  distributed under their own licenses (e.g. Llama 3.1 Community License,
+  CC BY-NC-SA 4.0 for Sherkala). Check those licenses if you plan to use the
+  outputs of a specific model beyond research.

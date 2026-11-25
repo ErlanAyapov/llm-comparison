@@ -1,0 +1,100 @@
+{"item_id": "V001", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V002", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V003", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V004", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V005", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V006", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V007", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V008", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V009", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V010", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V011", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V012", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V013", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V014", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V015", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V016", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V017", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V018", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V019", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V020", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V021", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V022", "human": "hallucination", "adjudicated": "hallucination", "note": "спорно: нерелевантная цитата из оставшегося текста; оставлена метка разметчика"}
+{"item_id": "V023", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V024", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V025", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V026", "human": "hallucination", "adjudicated": "supported", "note": "ответ есть в оставшемся тексте (п. 3 Положения)"}
+{"item_id": "V027", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V028", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V029", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V030", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V031", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V032", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V033", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V034", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V035", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V036", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V037", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V038", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V039", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V040", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V041", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V042", "human": "hallucination", "adjudicated": "refusal", "note": "дословная сноска ЗҚАИ из оставшегося текста, новых фактов нет"}
+{"item_id": "V043", "human": "partial", "adjudicated": "partial"}
+{"item_id": "V044", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V045", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V046", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V047", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V048", "human": "hallucination", "adjudicated": "supported", "note": "ответ есть в оставшемся тексте (п. 3 Положения)"}
+{"item_id": "V049", "human": "hallucination", "adjudicated": "refusal"}
+{"item_id": "V050", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V051", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V052", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V053", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V054", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V055", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V056", "human": "correct", "adjudicated": "partial", "note": "2 из 3 пунктов"}
+{"item_id": "V057", "human": "correct", "adjudicated": "incorrect", "note": "бессмысленный ответ"}
+{"item_id": "V058", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V059", "human": "correct", "adjudicated": "refusal", "note": "модель говорит, что ответа нет"}
+{"item_id": "V060", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V061", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V062", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V063", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V064", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V065", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V066", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V067", "human": "partial", "adjudicated": "partial"}
+{"item_id": "V068", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V069", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V070", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V071", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V072", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V073", "human": "incorrect", "adjudicated": "refusal"}
+{"item_id": "V074", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V075", "human": "hallucination", "adjudicated": "supported", "note": "ответ есть в оставшемся тексте (п. 3 Положения)"}
+{"item_id": "V076", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V077", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V078", "human": "incorrect", "adjudicated": "refusal", "note": "спорно: смешанный ответ"}
+{"item_id": "V079", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V080", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V081", "human": "incorrect", "adjudicated": "refusal", "note": "спорно: смешанный ответ"}
+{"item_id": "V082", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V083", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V084", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V085", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V086", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V087", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V088", "human": "hallucination", "adjudicated": "refusal"}
+{"item_id": "V089", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V090", "human": "hallucination", "adjudicated": "hallucination"}
+{"item_id": "V091", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V092", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V093", "human": "partial", "adjudicated": "partial"}
+{"item_id": "V094", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V095", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V096", "human": "hallucination", "adjudicated": "refusal", "note": "дословная сноска ЗҚАИ из оставшегося текста, новых фактов нет"}
+{"item_id": "V097", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V098", "human": "correct", "adjudicated": "correct"}
+{"item_id": "V099", "human": "refusal", "adjudicated": "refusal"}
+{"item_id": "V100", "human": "correct", "adjudicated": "correct"}

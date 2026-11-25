@@ -1,0 +1,220 @@
+{
+ "created_at": "2026-11-16T17:58:25",
+ "ollama_host": "http://<ollama-host>:11434",
+ "ollama_version": "0.32.15",
+ "models": {
+  "gemma4:latest": {
+   "think": false,
+   "digest": "c6eb396dbd5992bbe3f5cdb947e8bbc0ee413d7c17e2beaae69f5d569cf982eb"
+  },
+  "qwen3:8b": {
+   "think": false,
+   "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41"
+  },
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": {
+   "think": null,
+   "digest": "db9345baa344341ba12c2c730907bd1d482793b20c20e6f228fd37e03ac5d3f0"
+  },
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": {
+   "think": null,
+   "digest": "4fe10210aece82dd3cc784b4f67963b3b14018e9b7ebf053b258d777bd85f9fc"
+  },
+  "sherkala-chat:latest": {
+   "think": null,
+   "digest": "32745d36466a89824e0f181771820d2af805feffba85149f116e4061ba63baba"
+  },
+  "llama3.1:8b-instruct-q4_K_M": {
+   "think": null,
+   "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+   "added_later": true
+  },
+  "llama3.1:8b-instruct-fp16": {
+   "think": null,
+   "digest": "4aacac4194543ff7f70dab3f2ebc169c132d5319bb36f7a7e99c4ff525ebcc09",
+   "added_later": true
+  },
+  "llama3.1:70b-instruct-q4_K_M": {
+   "think": null,
+   "digest": "711a9e8463afd8edd580debd3b5c521521ebe55ba95bb80d576f4149969e07c6",
+   "added_later": true
+  },
+  "gpt-oss:120b": {
+   "think": "low",
+   "digest": "a951a23b46a1f6093dafee2ea481d634b4e31ac720a8a16f3f91e04f5a40ecd9",
+   "added_later": true
+  }
+ },
+ "generation": {
+  "num_ctx": 8192,
+  "num_predict": 512,
+  "temperature": 0,
+  "seed": 42,
+  "keep_alive": "30m",
+  "timeout_s": 1800
+ },
+ "context": {
+  "seed": 42,
+  "safety_tokens": 32,
+  "shrink_factor": 0.93
+ },
+ "prompt_token_limit": 7648,
+ "prompt_version": "v1",
+ "system_prompt": "Сіз құжат бойынша сұрақтарға жауап беретін көмекшісіз. Тек төменде берілген құжат мәтінін пайдаланыңыз, өз біліміңізді қоспаңыз. Жауапты қысқа әрі нақты, сұрақ қойылған тілде беріңіз. Егер құжатта сұраққа жауап болмаса, дәл осылай жазыңыз: «Құжатта жауап жоқ.»",
+ "user_template": "Құжат:\n<<<\n{context}\n>>>\n\nСұрақ: {question}",
+ "refusal_phrase": "Құжатта жауап жоқ.",
+ "datasets": {
+  "e1": {
+   "path": "dataset/qa_kk.json",
+   "sha256": "6e3d148c4a38afc4798bd0190b06e31881f39d43714d89c27013834478a4ad44"
+  },
+  "e2": {
+   "path": "dataset/qa_kk_negative.json",
+   "sha256": "3270b48964e21b589e99bde774c355ef28c2b20d5c3ae796c08dcbeb6c391bb8"
+  },
+  "e3": {
+   "path": "dataset/qa_ru.json",
+   "sha256": "e5b0bf5b23265eab5771f05029b5fb893c1da0753a568c1916fd862bcb7db2c8"
+  }
+ },
+ "chars_per_token_min_by_doc": {
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_10.pdf": 1.5633,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_11.pdf": 1.6432,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_12.pdf": 1.6662,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_14.pdf": 1.5907,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_15.pdf": 1.6125,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17 (1).pdf": 1.6282,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17 (2).pdf": 1.5941,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_17.pdf": 1.5848,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_18.pdf": 1.6438,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_1_ (1).pdf": 1.652,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_1_.pdf": 1.5734,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (1).pdf": 1.6324,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (2).pdf": 1.7041,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21 (3).pdf": 1.6954,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_21.pdf": 1.5804,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_22 (1).pdf": 1.554,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_22.pdf": 1.5869,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_26.pdf": 1.577,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27 (1).pdf": 1.5919,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27 (2).pdf": 1.6201,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_27.pdf": 1.5837,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_29 (1).pdf": 1.6164,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_29.pdf": 1.5762,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_2_.pdf": 1.5883,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_30.pdf": 1.651,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_ (1).pdf": 1.5939,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_ (2).pdf": 1.6914,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_3_.pdf": 1.7509,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_5_ (2).pdf": 1.5689,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_5_.pdf": 1.722,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_6_ (1).pdf": 1.5439,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_6_.pdf": 1.6307,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_7_ (1).pdf": 1.6574,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_7_.pdf": 1.6111,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_8_.pdf": 1.5396,
+  "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_9_.pdf": 1.6421,
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_11_маусы.pdf": 1.5662,
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_12_маусы.pdf": 1.5449,
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_17_маусы.pdf": 1.56,
+  "documents/Қазақстан_Республикасының_Заңы_2026_жылғы_19_маусы.pdf": 1.5824
+ },
+ "overhead_tokens": {
+  "gemma4:latest": 146,
+  "qwen3:8b": 217,
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 225,
+  "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 225,
+  "sherkala-chat:latest": 86
+ },
+ "verify_rounds_e1e3": 3,
+ "stats": {
+  "e1": {
+   "n": 705,
+   "doc_whole": 303,
+   "multi_segment": 2,
+   "max_prompt_tokens": {
+    "gemma4:latest": 5467,
+    "qwen3:8b": 7643,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 7648,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 7648,
+    "sherkala-chat:latest": 3347,
+    "llama3.1:8b-instruct-q4_K_M": 7648,
+    "llama3.1:8b-instruct-fp16": 7648,
+    "llama3.1:70b-instruct-q4_K_M": 7648,
+    "gpt-oss:120b": 4395
+   }
+  },
+  "e3": {
+   "n": 705,
+   "doc_whole": 303,
+   "multi_segment": 2,
+   "max_prompt_tokens": {
+    "gemma4:latest": 5467,
+    "qwen3:8b": 7643,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 7648,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 7648,
+    "sherkala-chat:latest": 3347,
+    "llama3.1:8b-instruct-q4_K_M": 7631,
+    "llama3.1:8b-instruct-fp16": 7631,
+    "llama3.1:70b-instruct-q4_K_M": 7631,
+    "gpt-oss:120b": 4389
+   }
+  },
+  "e2_offtopic": {
+   "n": 110,
+   "doc_whole": 110,
+   "multi_segment": 0,
+   "max_prompt_tokens": {
+    "gemma4:latest": 5035,
+    "qwen3:8b": 7403,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 6871,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 6871,
+    "sherkala-chat:latest": 2489
+   }
+  },
+  "e2": {
+   "n": 200,
+   "max_prompt_tokens": {
+    "gemma4:latest": 5317,
+    "qwen3:8b": 7443,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 7506,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 7506,
+    "sherkala-chat:latest": 3034,
+    "llama3.1:8b-instruct-q4_K_M": 7506,
+    "llama3.1:8b-instruct-fp16": 7506,
+    "llama3.1:70b-instruct-q4_K_M": 7506,
+    "gpt-oss:120b": 4215
+   }
+  },
+  "e2_ru": {
+   "n": 200,
+   "max_prompt_tokens": {
+    "gemma4:latest": 5296,
+    "qwen3:8b": 7395,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-8B-GGUF4:latest": 7453,
+    "huggingface.co/issai/LLama-3.1-KazLLM-1.0-70B-GGUF4:latest": 7453,
+    "sherkala-chat:latest": 3055,
+    "llama3.1:8b-instruct-q4_K_M": 7453,
+    "llama3.1:8b-instruct-fp16": 7453,
+    "llama3.1:70b-instruct-q4_K_M": 7453,
+    "gpt-oss:120b": 4214
+   }
+  }
+ },
+ "e2_offtopic_document": {
+  "file_path": "documents/Қазақстан_Республикасы_Президентінің_2026_жылғы_18.pdf",
+  "file_hash": "52956dfaddf773b14c70c9330e10da20c47ae485faa2e672827b2b28bc0498f3",
+  "chars": 11727
+ },
+ "e2_cut": {
+  "n": 200,
+  "margin_lines": 2,
+  "df_max": 0.5,
+  "stem_len": 6,
+  "relax_frac": 0.3333333333333333,
+  "strict": 151,
+  "seed": 42,
+  "candidates": 151,
+  "rejected": 454,
+  "documents": 40
+ }
+}

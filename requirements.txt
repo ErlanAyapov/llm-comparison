@@ -1,0 +1,6 @@
+requests
+pyyaml
+python-dotenv
+pymupdf>=1.24
+matplotlib
+openpyxl
